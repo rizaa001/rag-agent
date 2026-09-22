@@ -1,0 +1,43 @@
+About the job
+Management Trainee – Full Stack Developer
+
+Location: Bangalore
+
+About The Role
+
+Kuku is looking for a passionate Management Trainee – Full Stack Developer who loves building products and solving real-world problems with technology.
+
+You’ll work closely with our engineering and product teams to build, improve, and scale features across our web platforms. This role is ideal for fresh graduates or early-career developers who want hands-on exposure to building products in a fast-paced startup environment.
+
+What You’ll Do
+
+Build and maintain user-facing features across frontend and backend. 
+Develop responsive web applications using React.js / JavaScript / TypeScript. 
+Build backend services and APIs using Python / Java / Node.js. 
+Work with REST APIs, databases, and third-party integrations. 
+Write clean, scalable, and maintainable code. 
+Debug issues and improve application performance. 
+Collaborate with Product, Design, and Engineering teams to ship features. 
+Participate in code reviews, testing, and deployment. 
+Learn and adopt new technologies as the product evolves. 
+
+What We’re Looking For
+
+B.Tech/B.E. in Computer Science, IT, or a related field. 
+6 months – 2 year of experience; strong freshers are welcome. 
+Good understanding of Data Structures & Algorithms and OOP concepts. 
+Hands-on knowledge of at least one frontend framework, preferably React.js. 
+Programming knowledge in JavaScript/TypeScript, Python, Java, or Node.js. 
+Basic understanding of SQL/NoSQL databases, Git, APIs, and web technologies. 
+Strong problem-solving and debugging skills. 
+Internship, personal projects, hackathons, or GitHub projects demonstrating development skills are a plus. 
+
+Why Join Kuku?
+
+Build products used by a large consumer audience. 
+Work directly with experienced engineers and product teams. 
+Get hands-on exposure across the full technology stack. 
+Learn fast, take ownership, and ship real features from day one. 
+Opportunity to grow into a Full Stack Software Engineer role based on performance. 
+
+Skills: rest api,data structure,problem solving,microservices,react,mongodb,fullstack,full stack development,algorithms,python,mern stack,javascript,mysql,postgresql,java

@@ -1,0 +1,39 @@
+About the job
+Siemens EDA is a global technology leader in Electronic Design Automation software. Our software tools enable companies around the world to develop highly innovative electronic products faster and more cost-effectively. Our customers use our tools to push the boundaries of technology and physics to deliver better products in the increasingly complex world of chip, board, and system design.
+
+Position Overview
+
+Join our EDA team and work on cutting-edge compiler technologies and optimizations that power the next generation of chip design. Based in Noida, you'll collaborate with global teams to develop innovative software solutions while gaining exposure to diverse projects across India and beyond. This is an excellent opportunity for fresh graduates and early-career engineers to build a strong foundation in software development within a world-class organization. You'll work on real customer problems and grow through mentorship from experienced engineers.
+
+Key Responsibilities
+
+Develop and optimize compiler solutions and tools using C/C++ on UNIX/LINUX platforms
+Design and implement efficient algorithms and data structures for EDA applications
+Apply compiler concepts and optimization techniques to enhance software performance
+Collaborate with cross-functional teams to translate customer requirements into scalable solutions
+Participate in code reviews and contribute to continuous improvement of development practices
+Test, debug, and refine software components to meet quality standards
+
+Qualifications
+
+Bachelor's or Master's degree in Electronics and Communication Engineering (ECE), Electrical Engineering (EEE), or Computer Science (CS) from a recognized engineering college
+Strong understanding of C/C++ programming, including design patterns, data structures, and algorithms, with hands-on development experience on UNIX/Linux platforms.
+Excellent problem-solving, analytical, and communication skills
+Ability to work effectively with multi-functional teams in a collaborative environment
+
+Good to Have
+
+Knowledge of ML/AI algorithms for data-driven applications
+Familiarity with Verilog, SystemVerilog, or VHDL
+Understanding of compiler concepts and optimization techniques
+Previous exposure to EDA tools or electronic design workflows
+
+Why Us
+
+At Siemens Software, flexibility is how we work—hybrid by default, built on trust and autonomy. Together, 30,000 people across more than 200 countries build technology that shapes the real world. You'll grow through real projects, strong technical peers, and global mobility, backed by the scale and benefits of an industrial software leader. We're committed to equality and inclusion, and we hire based on merit, skills, and impact. Bring your curiosity and creativity and help us shape tomorrow!
+
+Our Commitment to Equity and Inclusion
+
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and transform the everyday with us.
+
+Siemens Software. Transform the Everyday

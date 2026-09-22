@@ -1,0 +1,40 @@
+About the job
+Infinite Convergence Solutions, Inc. is an industry leader that provides next-generation messaging and mobility solutions to carriers and enterprises globally, including its enterprise-grade, secure mobile messaging platform - NetSfere Enterprise; customer engagement platform - NetSfere Omnichannel and complete range of scalable next-generation wireless communication technologies - NetSfere Mobile Solutions.
+
+With a rich heritage based on acquisitions from Motorola, Nokia, and Alcatel-Lucent and with 2000+ years of combined experience in mobile and messaging technologies, the company's platforms support more than 500 million subscribers by sending over one trillion messages per year. Headquartered outside Chicago, with offices in the United States, Germany, UK, India, and Singapore, Infinite Convergence is a subsidiary of Infinite Computer Solutions. For more information, visit www.infinite-convergence.com and www.netsfere.com.
+
+Job Description
+
+We are looking for a Junior Software Engineer to be involved in all phases of the software development lifecycle with a focus on software design, code, debugging, and testing. The candidate will perform backend server development for real-time media solutions that power voice, video, and screen sharing in an enterprise application. Experience gained in the classroom and through personal application will be accepted.
+
+You will work with a collaborative team of senior and junior engineers to address Infinite’s rapidly evolving messaging applications. You will have the opportunity to learn new technologies, tools, and languages. Key to the success of this position is a strong desire to learn, a passion for solving challenging problems, and being a team player on an energetic team.
+
+The candidate should be willing to travel to our Engineering Center in Chicago for in depth product training and to collaborate with the team on deliverables as and when required.
+
+Responsibilities
+
+Develop, integrate and validate object-oriented based software for new and existing messaging applications
+Tool’s development and/or scripting specifically with Python, Perl, Linux Shell (bash)
+Documenting and testing new software applications
+
+Requirements
+
+Applicants should have excellent analytical and problem-solving skills with the ability to work independently and in teams.
+
+BS in Computer Science or Software Engineering
+Must have knowledge of C++ and Java
+Knowledge of PHP, JavaScript, HTML5, CSS3
+Knowledge of Objective C is a plus
+Good understanding of software development fundamentals, data structures, database concepts, networks, and algorithms
+Understanding of linux operating systems (file systems, networking operations, installation, and configuration) is a plus
+Eligible to work in the US without sponsorship
+
+Majors
+
+Computer Science, Software Engineering
+
+Location
+
+This position is located in Bangalore/Bengaluru - India.
+
+Apply Contact Us

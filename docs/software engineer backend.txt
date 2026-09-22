@@ -1,0 +1,25 @@
+About the job
+SHIELD is a device-first fraud intelligence platform built on the world's most persistent device identification technology across applications and platforms.Powered by SHIELD AI and patented technology (SHIELD Sentinel), SHIELD sets the global standard for device identification (SHIELD Device ID) and exposes the full range of fraud tools and techniques through more than 20 risk indicators, delivering real-time, actionable fraud intelligence across all use cases and industries worldwide.Trusted by global unicorns including inDrive, Alibaba, Deliveroo, Meesho, TrueMoney, Unico ID and OLX, SHIELD operates with teams across Los Angeles, São Paulo, London, Berlin, Jakarta, Bangkok, Bengaluru, Beijing and Singapore, advancing our mission: to eliminate unfairness and enable trust for the world.
+Responsibilities
+
+As a Software Engineer (Backend), you will be responsible in supporting full software development of new and existing applications. Working individually and as a team, you should adopt an Agile methodological approach towards projects that include but not limited to software architecture and infrastructure. We are looking for talented and passionate Software Engineers who are proactive to take initiatives to identify problems, and have the logical thought flow and right skill sets to solve them. There will be many opportunities to explore new tech stacks and to work on advanced technologies. 
+Design and code using GO language to enhance the availability, scalability, latency, and efficiency of SHIELD's products 
+Work with internal team to explore and create new design / architectures for better scaling and performance of back-end services 
+Conduct and participate in code and design reviews to achieve and maintain high development standards 
+Work alongside the internal team for service capacity and demand planning,software performance analysis, tuning and optimization 
+Work alongside with product team to define and prototype feature specifications Develop, construct, analyse and troubleshoot large-scale systems 
+Engage in full-stack performance tuning and optimization 
+Debug and optimise complex enterprise software 
+
+
+Requirements
+
+
+Minimum 1+ years of experience in back-end web development
+Bachelor's degree in Computer Science from a reputed institution, with strong fundamentals in computer science and software engineering
+Strong Computer Science knowledge in algorithms and data structures 
+Experience in MySQL, MongoDB and other relational/NoSQL databases 
+Willingness to work on Go programming language with prior programming experiences with C++, Java.  
+Passionate in innovating, learning new skills and technology 
+Proficient in setting monitoring tools and crisis management for recovery 
+Comfortable working on frontend and backend tasks is a plus

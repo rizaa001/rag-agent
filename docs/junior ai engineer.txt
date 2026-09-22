@@ -1,0 +1,56 @@
+About the job
+July 10, 2025
+
+Shamrock
+
+Junior AI Engineer
+
+Full Time
+
+Chennai
+
+Posted 1 year ago
+
+We are looking for a motivated Junior AI Engineer to join our AI/ML team. You will work closely with data scientists and senior engineers to build scalable machine learning models and contribute to intelligent product features. Ideal for candidates eager to learn and grow in the AI field.
+
+Experience: 1–3 Years
+
+Skills
+
+Basic to intermediate knowledge of Python, NumPy, Pandas, and Scikit-learn.
+Familiarity with ML frameworks like TensorFlow or PyTorch.
+Understanding of supervised and unsupervised learning techniques.
+Exposure to data cleaning, feature engineering, and visualization tools.
+Good communication and documentation skills.
+
+Responsibilities & Required Skills
+
+Assist in data collection, preprocessing, and labeling.
+Support in training and tuning machine learning models.
+Collaborate on deploying models using APIs or cloud services.
+Work with senior engineers in code reviews and debugging.
+Maintain clear documentation and participate in sprint reviews.
+
+Job Features
+
+Job Category AI & Data Science No of Positions 1 Experience 1–3 Years Location Chennai Employment Type Full Time
+
+Apply For This Job
+
+Name*
+
+Email*
+
+Phone*
+
+A valid phone number is required.
+
+Cover Letter*
+
+Attach Resume*
+
+No file chosen
+
+Browse
+
+By Shamrock

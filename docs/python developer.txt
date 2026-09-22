@@ -1,0 +1,159 @@
+About the job
+Jobs /
+
+Python Developer
+
+Nagpur, India
+
+We’re looking for a Python Developer to build backend systems, automate workflows, and support data-driven products. You’ll write clean, efficient code and work with APIs, databases, and cloud tools. Strong Python skills and problem-solving mindset required.
+
+Join us, we offer you an extraordinary chance to learn, to develop and to be part of an exciting experience and team.
+
+Apply Now
+
+Objectives of this role
+
+Develop, test and maintain high-quality software using Python programming language.
+Participate in the entire software development lifecycle, building, testing and delivering high-quality solutions.
+Collaborate with cross-functional teams to identify and solve complex problems.
+Write clean and reusable code that can be easily maintained and scaled.
+
+Your tasks
+
+Create large-scale data processing pipelines to help developers build and train novel machine learning algorithms.
+Participate in code reviews, ensure code quality and identify areas for improvement to implement practical solutions.
+Debugging codes when required and troubleshooting any Python-related queries.
+Keep up to date with emerging trends and technologies in Python development. 
+
+Required Skills And Qualifications
+
+0 + 1 year of experience as a Python Developer with a strong portfolio of projects.
+Bachelor's degree in Computer Science, Software Engineering or a related field.
+In-depth understanding of the Python software development stacks, ecosystems, frameworks and tools such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, sci-kit-learn and PyTorch.
+Experience with front-end development using HTML, CSS, and JavaScript.
+Familiarity with database technologies such as SQL and NoSQL.
+Excellent problem-solving ability with solid communication and collaboration skills.
+
+Preferred skills and qualifications
+
+Experience with popular Python frameworks such as Django, Flask or Pyramid.
+Knowledge of data science and machine learning concepts and tools.
+A working understanding of cloud platforms such as AWS, Google Cloud or Azure.
+Contributions to open-source Python projects or active involvement in the Python community.
+
+What's great in the job?
+
+Real-World Experience: Work on live projects that impact real users and businesses.
+Mentorship: Learn directly from experienced professionals and get guidance to build your engaging career.
+Career Advancement: Opportunities to grow into specialized roles, and add learning to your job.
+Exposure to cross-functional collaboration in a data-driven company.
+A dynamic and supportive work environment focused on learning and growth.
+
+Degree
+
+MUST
+
+Work Type
+
+FULL TIME
+
+Payroll
+
+ON COMPANY
+
+Job Type
+
+PERMANENT
+
+Team / Company Size
+
+10 / 40 people
+
+Work Type
+
+Office
+
+Level type
+
+Level 0
+
+Company Growth
+
+50% YoY
+
+Need More Info?
+
+About Us
+The culture
+Connect on Linkedin
+
+Benefits
+
+Healthcare, dental, vision, life insurance, yoga, fitness
+
+PTOs
+
+Vacation, Sick, and paid leaves
+
+Save on commute
+
+Use metro from any corner of Nagpur to reach office in 20 - 30 min
+
+Learn to Grow
+
+At CLIDE you not only apply your skill but at the same time upgrade your skill
+
+Prime location
+
+Near Vasudev Nagar Metro Station, MIDC Hingna Naka, Nagpur
+
+Sponsored Events
+
+Online webinar for upgrading the competency and skill
+
+Sport Activity
+
+Play any sport with colleagues and the bill is covered
+
+Eat & Drink
+
+Enjoy eating and joy of having indian food together
+
+Services
+
+Product Overview
+Enterprise
+SME Business
+Support
+Solution
+FAQ
+Support
+Updates
+
+Event
+Insights
+Job
+Partner
+Become a partner
+Find a partner
+Product Video
+CLIDE Analyser
+
+Mobile
+Feature
+Cloud Platform
+Contact Us
+Request for demo
+Talk to Sales
+Policies
+Connect with us
+
+Contact us
+ 07122244488
+ info@clideg.com 
+
+CLIDE Analyser LLC - About us
+
+We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.
+
+Our products are designed for small to medium size companies willing to optimise their performance.

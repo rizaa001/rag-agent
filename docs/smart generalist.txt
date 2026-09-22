@@ -1,0 +1,65 @@
+About the job
+PopVax is an Indian full-stack biotech building first-in-class and best-in-class vaccines and cancer immunotherapies using machine learning-driven protein design and relentless empiricism. We design, develop, and manufacture our own RNA medicines end-to-end because we believe great pharmaceutical science can only flourish in tight feedback loops that iterate rapidly. PopVax’s experimental work and clinical dose production is based at the https://popvax.com/foundry , our integrated R&D and GMP-capable clinical dose production facility in Hyderabad.
+
+PopVax's north star is our goal of developing novel vaccines and therapeutics over the next decade with the cumulative ability to save 1 million lives each year – the Million Lives Mission. To that end, we are developing first-in-class vaccines against Hepatitis C, Strep A, and adult pulmonary TB; broadly-protective best-in-class vaccines against COVID-19, influenza, malaria, and HPV; and precision immunotherapies against hard-to-treat solid tumours such as liver cancer and pancreatic cancer. Beyond existing diseases, we are leveraging our high-speed platform to build rapid-response biosecurity capabilities against engineered de novo pathogens.
+
+Our mission is funded by Vitalik Buterin’s Balvi Fund, the Gates Foundation, the US Biomedical Advanced Research and Development Authority (BARDA), Renaissance Philanthropy, and Good Ventures, with individual investments from Enveda founder Viswa Colluru and Tesla self-driving AI pioneer Dhaval Shroff. Our first program, an open-source broadly-protective COVID-19 vaccine, will begin a Phase I clinical trial in Australia in mid-2026. This is just the start – we intend to advance 6+ novel vaccine and immunotherapy programs into human clinical trials over the next three years, decisively demonstrating that world-class biotech R&D is possible in India.
+
+No matter the job title, each person’s role at PopVax is ultimately about helping bring safe, effective new medicines that represent a step-change over the current standard-of-care to the people who need them, as quickly as possible. If you are looking for a place where the ambition is high, the learning curve is steep, and the work matters to billions, you’ll feel at home here.
+
+If you’re excited by the idea of advancing scientific, clinical, and regulatory frontiers of vaccines and immunotherapies, spending each day developing medicines with the potential to save millions of lives, and building a generational global pharmaceutical company in India along the way – join us!
+
+Role Overview
+
+PopVax is a full-stack mRNA biotech company designing, developing, and manufacturing vaccines and immunotherapies — and taking them to clinic at breakneck speed. We have world-class scientists, state-of-the-art labs, and a mission to save a million lives. What we don't always have is the internal scaffolding to match.
+
+The thing about a company that's growing this fast is that the problems aren't always scientific. Sometimes the bottleneck is that nobody can find the right SOP. Sometimes it's that a team is spending four hours a week copy-pasting data between spreadsheets. Sometimes it's that the recruitment team is drowning in 3,000 applicants and has no good way to surface the right ones. Sometimes a robot in the wet lab needs to be told what to do next.
+
+These aren't glamorous problems. But when they don't get solved, they slow down the people trying to solve the glamorous ones — like how to make a better vaccine.
+
+We need someone who can fix these things. Quickly. With code, with AI, with no-code tools, with whatever works. Someone who can walk into any part of the company, figure out what's broken or slow or frustrating, and build something that makes it better — ideally by the end of the week.
+
+That someone is our Smart Generalist.
+
+What You'll Actually Do
+
+You'll be a force-multiplier across the entire company. Not embedded in one team, not stuck in one domain — you'll go wherever the highest-leverage problem is and own it end-to-end.
+
+One week you might build an internal chatbot that helps the recruitment team find the right candidates out of thousands in our Applicant Tracking System. The next week you might create an AI-powered internal wiki so R&D teams can actually search over SOPs and documentation instead of pinging five people on Slack. The week after that you might build a dashboard that gives the leadership team real-time visibility into manufacturing timelines, or write a script that automates a procurement workflow that currently involves three spreadsheets and a prayer.
+
+You might even end up coding robots to automate wet lab experimental workflows. We're not kidding.
+
+The domains you'll touch span the whole company — HR and People Ops, executive reporting, project management, scientific software tools, data science and analytics, lab operations and automation, finance, procurement, and warehouse management. If it involves building something that makes PopVax run better, it's in your remit.
+
+Specifically, You Will
+
+Understand how work actually gets done. You'll embed with R&D, GMP, and Operations teams to see the real workflows — not the ones on paper, the ones that actually happen — and then build software, tools, and systems that make them faster, smarter, and more reliable.
+Build fast with whatever works. Code, no-code tools, spreadsheets, APIs, scripts, dashboards, AI-assisted development — you'll use the right tool for the job and move quickly from idea to working solution. Nobody here cares if it's elegant. They care if it works.
+Automate the tedious, illuminate the invisible. You'll identify repetitive workflows and kill them with automation. You'll surface data that's currently trapped in spreadsheets and inboxes and turn it into dashboards and analytics that help scientists and leaders make better decisions, faster.
+Make things that stick. The goal isn't to build clever prototypes that nobody uses. The goal is to build practical solutions that people actually rely on, that become part of how PopVax operates. You'll be judged on whether the things you build make a real, lasting difference.
+
+To succeed in this role, within the first few weeks you should have already built and improved systems that save time, reduce chaos, and increase the operating speed of the company. People across PopVax should begin to feel that things are simply working better because you are here.
+
+Over time, you'll become someone who can drop into any part of the company, figure out what's broken, and make it better. This role is built for growth — as PopVax scales, your scope, autonomy, and leadership will scale with it.
+
+Who You Are
+
+You're someone who has recently completed a B.Tech or Master's degree and wants their first (or nearly first) job to be at a place where the work actually matters — where the thing you build on a Tuesday afternoon might remove a bottleneck that was holding up a vaccine candidate.
+
+You can write code — Python, JavaScript, SQL, or similar — or you're highly effective at using AI tools to build functional software fast. We will test for this, so if you're the kind of person who can prompt an LLM into building a working internal tool in an afternoon, that counts. What matters is that you can go from "this is a problem" to "here's a working solution" without waiting for someone to write you a spec.
+
+You've built something before. A script, a tool, a side project, a dashboard — something. It doesn't have to be impressive. It has to be real, and you have to be able to show us.
+
+Most importantly, you have exceptional problem-solving instincts and the intellectual horsepower to operate in a company where the science is cutting-edge, the pace is relentless, and the problems come from every direction.
+
+Qualifications
+
+B.Tech, M.Tech, M.Sc, or equivalent degree in engineering, sciences, mathematics, or computer science.
+0–2 years of experience. Fresh graduates are strongly encouraged to apply.
+Ability to write code (Python, JavaScript, SQL, or similar) or demonstrated ability to use AI tools to build functional software quickly.
+A portfolio of something you've built — a script, a tool, a dashboard, a side project. Show us you can make things.
+Exceptional problem-solving ability and the drive to figure things out without being told exactly how.
+
+Reporting Structure
+
+You'll work closely with the VP of Operations and collaborate across every function in the company. This is not a role where you sit in a corner and write code. You'll be embedded in the daily reality of how PopVax works, and the things you build will be felt across the entire organization

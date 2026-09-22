@@ -1,0 +1,116 @@
+About the job
+Job Title
+
+Software Engineer – AI Software & Platform
+
+Organization
+
+Role Overview
+
+AI Software and Platform Engineering:
+
+We are looking for a Software Engineer to join Cisco’s AI Software and Platform
+
+organization. In this role, you will work on building and maintaining scalable, distributed
+
+software platforms that power next-generation AI-driven services. You will collaborate
+
+with experienced engineers, learn industry-leading technologies, and contribute to real-
+
+world, large-scale systems used by customers globally.
+
+This role is ideal for engineers early in their careers who are eager to learn, grow, and
+
+work on complex, cloud-scale platforms.
+
+Key Responsibilities
+
+Software Development & Platform Engineering
+
+ Design, develop, test, debug, and maintain AI and Platform software, including
+
+components for distributed systems & microservices.
+
+ Contribute to the development of new product features and applications across
+
+multiple platforms.
+
+ Implement software modules independently under guidance, following
+
+established architecture and design patterns.
+
+ Write clean, maintainable, and well-documented code in Go, Python, or other
+
+relevant languages.
+
+ Develop stateless, scalable services for data ingestion, processing, parsing, and
+
+storage within a distributed SaaS platform.
+
+ Develop HTTP gateways and services that interact with data stores such as
+
+MySQL, NoSQlDb, and Redis.
+
+ Develop automated test plans and participate in system-level testing.
+
+Cisco Confidential
+
+ Basic knowledge of AI technologies and industry trends, including concepts
+
+such as Model Context Protocol (MCP), AI Agents, Agentic AI, and their
+
+application in modern software platforms.
+
+Minimum Qualifications
+
+ Bachelor’s degree in Computer Science, Engineering, or a related field (or
+
+equivalent experience).
+
+ Strong foundation in data structures, algorithms, and software engineering
+
+principles.
+
+ Experience with at least one programming language such as Go, Python, Java,
+
+or C++.
+
+ Basic understanding of distributed systems, networking concepts, and cloud
+
+technologies.
+
+Preferred Qualifications
+
+ Exposure to microservices, containers, and orchestration tools (Docker,
+
+Kubernetes).
+
+ Understanding of networking protocols (HTTP/HTTPS, TCP/IP, SMTP).
+ Experience with databases (SQL or NoSQL) and messaging systems.
+ Interest in AI-driven platforms, cloud-scale systems, and network security.
+
+Why Join Us
+
+ Work on real-world, large-scale AI and software platforms used by customers
+
+worldwide.
+
+ Learn from experienced engineers in a collaborative, growth-focused
+
+environment.
+
+ Gain hands-on experience with modern cloud, AI, and distributed systems
+
+technologies.
+
+ Build a strong foundation for a long-term engineering career at Cisco
+
+Cisco Confidential
+
+Why Cisco?
+
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+
+We are Cisco, and our power starts with you.

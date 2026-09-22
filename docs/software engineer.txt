@@ -1,0 +1,30 @@
+About the job
+Job Title: Software EngineerExperience: 0–3 YearsLocation: Remote (India)Company: Goodspace (Noida)Salary: ₹9–12 LPAAbout GoodspaceGoodspace is building AI-powered products that help millions of professionals discover better career opportunities and help companies hire faster. As a Software Engineer, you'll work on scalable products, solve real-world engineering challenges, and collaborate with cross-functional teams to build features used by millions of users.What You'll Do
+Design, develop, test, and maintain scalable web applications.
+Build new product features and improve existing functionality.
+Write clean, efficient, and maintainable code.
+Collaborate with Product Managers, Designers, and Engineers throughout the development lifecycle.
+Debug, troubleshoot, and resolve technical issues.
+Participate in code reviews and contribute to engineering best practices.
+Continuously learn and adopt modern technologies and development practices.
+Requirements
+0–3 years of experience (freshers are welcome to apply).
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Strong understanding of programming fundamentals and data structures.
+Familiarity with at least one programming language such as JavaScript, TypeScript, Python, Java, or C++.
+Basic understanding of databases, APIs, and version control (Git).
+Strong problem-solving skills and eagerness to learn.
+Comfortable working in a fast-paced startup environment.
+Good to Have
+Internship or personal software development projects.
+Experience with React, Node.js, Next.js, or similar frameworks.
+Familiarity with cloud platforms (AWS, GCP, or Azure).
+Knowledge of REST APIs, SQL, or NoSQL databases.
+Experience using AI coding tools such as GitHub Copilot, Cursor, or ChatGPT.
+Why Join Goodspace?
+Competitive salary of ₹9–12 LPA
+Fully remote work environment
+Build AI-powered products used by millions of professionals
+High ownership and rapid career growth
+Work with experienced Product, Engineering, and Design teams
+Opportunity to learn modern technologies and contribute from day one

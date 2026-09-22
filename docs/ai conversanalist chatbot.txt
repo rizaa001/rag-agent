@@ -1,0 +1,35 @@
+About the job
+We are hiring an AI Conversational Chatbot Developer to build smart and interactive chatbot solutions for healthcare services. You will work closely with different teams to understand requirements and create user-friendly chatbot experiences.
+
+Key Responsibilities
+
+Design and develop AI-based chatbots for web and mobile platforms
+Build, test, and deploy chatbot applications using modern tools and frameworks
+Work with product and business teams to understand user needs
+Improve chatbot performance using machine learning techniques
+Fix bugs and handle technical issues in chatbot systems
+Keep learning about new AI trends and apply them where needed
+Create scripts for testing and smooth deployment of chatbot features
+
+Required Skills
+
+Good knowledge of Python, Java, or C++
+Hands-on experience with AI/ML frameworks like TensorFlow, PyTorch, or Keras
+Basic understanding of machine learning and deep learning concepts
+Familiarity with cloud platforms such as AWS or Google Cloud
+Strong problem-solving ability
+Good communication skills and teamwork mindset
+
+Education
+
+Bachelor’s degree in Computer Science, Information Technology, Artificial Intelligence, or a related field
+
+Technology: java C# Python TensorFlow AWS or Google Cloud
+
+Job Type: Full Time
+
+Job Location: Delhi
+
+Work Mode: Onsite / Hybrid
+
+Experience: 1 to 4 Years

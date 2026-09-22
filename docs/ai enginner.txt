@@ -1,0 +1,34 @@
+About the job
+About The Role-
+
+Tristone is embedding agentic AI directly into its workflows and systems. As a member of the Agentic AI engineering team, you'll help build agents, MCP servers, and evaluation loops that make AI-generated code reliable, auditable, and fast to ship. You'll work closely with senior members of Tristone to deliver pragmatic, high-impact AI integrations at scale.
+
+Key Responsibilities-
+
+Contributing to the platform by implementing agents, MCP servers, and supporting services that propose and apply changes to large codebases
+Assisting in developing retrieval systems that give AI agents and developers accurate, up-to-date context from large codebases and design artifacts
+Helping measure and improve AI-generated changes by building compile/test/evaluate pipelines (static analysis, style and safety checks, performance gates, code review)
+Applying Tristone’s best practices in concurrency, telemetry, configuration hygiene, and performance-sensitive code paths to ensure AI outputs are reliable and idiomatic
+Collaborating with colleagues on experiments to evaluate and improve AI-driven workflows
+Complying with IT policies and procedures.
+Maintaining security of information at all times.
+
+Requirements-
+
+1+ years of experience
+Proficiency in a high-level programming language (Java or Python preferred)
+Experience contributing to developer-facing or production systems
+Curiosity and eagerness to learn about AI/LLM application patterns, even if you haven't worked closely with them yet
+Strong communication skills; comfortable working with engineers in a fast, collaborative environment
+
+Strong Preferred-
+
+Exposure to AI tools or workflows (e.g., LangChain, LangGraph, AutoGen, or similar)
+Experience with retrieval systems (vector search, embeddings, or hybrid approaches)
+Familiarity with compiler/static analysis or large-scale refactoring tools
+Interest in customizing or fine-tuning open-weight models
+Knowledge of model-serving or evaluation infrastructure
+
+Qualification-
+
+BS+ in Computer Science (or related) with strong fundamentals (algorithms, data structures, systems)

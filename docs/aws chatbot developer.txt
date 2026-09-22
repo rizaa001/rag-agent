@@ -1,0 +1,30 @@
+About the job
+We are seeking a skilled AWS Chatbot Developer with at least one year of experience to join our team. The ideal candidate will have a strong background in developing and deploying chatbots using Amazon Lex and other AWS services.
+
+As an AWS Chatbot Developer, you will be responsible for designing, developing, and maintaining chatbot solutions that meet our organization's needs.
+
+Responsibilities
+
+ Design and develop chatbot solutions using Amazon Lex and other AWS services.
+ Collaborate with cross-functional teams to gather requirements and define chatbot use cases.
+ Customize chatbot interactions and responses to enhance user experience.
+ Integrate chatbots with backend systems and third-party APIs.
+ Implement natural language understanding (NLU) and machine learning models to improve chatbot performance.
+ Test and debug chatbot functionality to ensure reliability and accuracy.
+ Deploy chatbots to production environments and monitor performance.
+ Provide technical support and troubleshooting for chatbot-related issues.
+ Stay updated on emerging trends and best practices in chatbot development and AWS services.
+ Document chatbot designs, configurations, and processes.
+
+Requirements
+
+ Bachelor's degree in computer science, engineering, or a related field.
+ Minimum one year of experience developing chatbots using Amazon Lex.
+ Proficiency in AWS services such as Lambda, API Gateway, S3, and IAM.
+ Strong programming skills in languages such as Python, JavaScript, or Java.
+ Knowledge of natural language processing (NLP) techniques and machine learning concepts.
+ Experience with version control systems such as Git.
+ Excellent communication and collaboration skills.
+ Ability to work independently and manage multiple tasks in a fast-paced environment.
+ AWS certification(s) related to chatbot development (preferred but not required).
+ Demonstrated problem-solving abilities and attention to detail.

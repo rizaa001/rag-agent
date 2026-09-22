@@ -1,0 +1,38 @@
+About the job
+Job Description
+
+We are looking for freshers as Developers who will be responsible for creating BAAR (Business Automation AI and Robotics) workflow to achieve different use case. To achieve use case developer might need to write Python or other scripts. Developer primary focus will be design and development of BAAR Workflow.
+
+Responsibilities
+
+Writing reusable, testable, and efficient code in Python
+
+Understanding of business requirement and
+
+Design and implementation of BAAR Workflow to achieve business requirement
+
+Skills And Qualification
+
+Well versed with Python
+
+Logical thinking is required to design and implement BAAR Workflow
+
+Good understanding of scripting language
+
+Understanding of fundamental design principles behind a scalable application
+
+Familiarity with event-driven programming in Python
+
+Able to create database schemas that represent and support business processes
+
+Strong unit test and debugging skills
+
+Experience in working with libraries like Pandas, Numpy etc
+
+Some knowledge in SQL is preferred
+
+Job Category: Developer
+
+Job Type: Full Time
+
+Job Location: Kolkata Pune Mumbai

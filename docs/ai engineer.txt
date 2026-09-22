@@ -1,0 +1,32 @@
+About the job
+About Zamp:
+Mission -
+Zamp is not a company, we’re a humanity catalyst. We’re on a mission to enable people to move at the speed of thought.
+This decade, we’re focused on building digital employees for the future of work, unlocking human creativity at a scale the world has never seen. We work with 50+ top global organizations and banks (including DoorDash, Uber, and Stripe) with billions in revenue. We raised a $22M seed round in 2022 from Sequoia Capital, Dara Khosrowshahi (CEO, Uber), Tony Xu (CEO, DoorDash), and other global leaders.
+One aspect of our purpose is to build what we believe to be the world’s best team, passionate, authentic, and relentlessly curious people who want to do their life’s best work, learn as much as possible, and create outsized impact.
+Hear more from the founders here.
+Role Overview :
+As an AI Solution Analyst – AI Workflows at Zamp.ai, you will operate as a key business partner on the front line. Your primary focus is to deeply understand customer processes, capture workflow requirements, and translate them into precise, high-quality AI workflows on our platform using our code generation platform.You will collaborate with internal teams and customers to unpack real operational challenges, formalise problem statements, and ensure the workflows created truly reflect business needs. The role is rooted in business analysis, process understanding, and structured problem-solving, with a strong emphasis on clarity, accuracy, and customer impact.At its core, this is a business-driven role that leverages AI to transform customer operations into reliable, measurable, and scalable workflows.
+Responsibilities :
+Workflow Definition & Implementation: Translate customer and internal business process requirements into workflow specifications, then use our internal AI tooling to generate code and assemble workflow logic and automation.
+End-to-End Ownership: Validate workflows end-to-end — from design through testing, to production rollout and performance monitoring.
+Cross-Functional Collaboration: Serve as the critical link between business teams, product & engineering. Provide feedback on workflow patterns, tool improvement and platform capabilities.
+Customer & Stakeholder Enablement: Work with customer-facing teams to onboard workflow solutions, ensure they run smoothly, and support adoption and feedback-loops.
+Business Impact Tracking: Monitor workflow performance, measure KPIs/ROI, communicate value and insights to both technical and non-technical stakeholders.
+
+Qualifications :
+0–2 years of professional experience (including internships) in business/analyst roles or equivalent.
+Strong academic foundation; candidates from top-tier institutes (IITs and other premier colleges) preferred.
+Undergraduate degree in Computer Science (or equivalent) strongly preferred, with proficiency in basic programming (e.g., Python, JavaScript) and a passion for building solutions.
+Excellent problem-solving skills, clarity of thought, and structured approach to workflow or process modelling.
+Initiative and ownership mindset: you thrive in fast-moving, ambiguous environments and proactively drive results.
+Strong communication skills and customer orientation: you can translate business needs into technical/solution language and interact effectively across teams.
+Our Culture & Benefits :
+At Zamp.ai, we foster a culture of transparency, meritocracy, and empowerment. Join a lean, high-velocity team where your impact is visible, your work matters, and you’ll grow quickly.
+Perks include:
+Competitive salary + stock options with upside.
+Collaborative environment working with top-tier talent.
+Inclusive and diverse workspace.
+Comprehensive medical insurance for employees, spouse and dependents.
+Continuous learning and development opportunities.
+Office with comfortable work setting and excellent amenities.

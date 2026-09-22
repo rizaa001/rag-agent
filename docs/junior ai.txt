@@ -1,0 +1,18 @@
+About the job
+Proglite is an AI-first IT managed services company. We build the internal tools, automation, and AI agents that power how we deliver IT services to clients — helpdesk triage agents, security alert automation, M365 operations tooling, compliance monitoring, and similar. This role is dedicated to building and maintaining that library: designing agent workflows, writing the connectors and integrations that plug them into systems like Microsoft 365, Jira, and Confluence, and hardening them enough to run in production. It's a hands-on engineering role for someone who wants to learn agentic AI development, Microsoft cloud tooling, and modern automation practices by building real software that the company runs on, from day one
+**What you'll do**You'll be automating the recurring, manual tasks IT teams handle every day — access reviews, license audits, alert triage, onboarding/offboarding steps, and similar — by building:
+Automation scripts and small tools in Python — pulling data from APIs, transforming it, and pushing results somewhere useful
+Power Automate flows to connect different business systems and automate repetitive manual work
+AI agents using the Claude API — writing the logic that connects an agent to a real system (like email, a ticketing tool, or a chat app) so it can actually take action, not just answer questions
+Simple dashboards and reports so people can see what an automation is doing, or catch something that needs attention
+Integrations with common IT and business tools via their APIs (think: Microsoft 365, Slack, ticketing systems) — reading data from them and writing back to them
+Tests and documentation for what you build, clear enough that a teammate can pick it up and extend it later]
+
+**What we're looking for**
+1–2 years of hands-on development experience — professional, internship, or solid personal/open-source project work all count
+Working knowledge of Python — comfortable reading and writing scripts, calling APIs, and debugging your own code without needing to be walked through it
+Some exposure to Power Automate or a similar low-code automation tool (Zapier, n8n) — you don't need to be an expert, but you should understand how flow-based automation works
+Basic familiarity with git/GitHub (branches, pull requests, code review)
+Some experience calling or working with REST APIs — you understand requests, responses, and authentication at a basic level
+Genuine interest in AI agents and automation — you don't need prior experience building with LLMs, but you should be excited to learn
+Strong written and verbal communication skills

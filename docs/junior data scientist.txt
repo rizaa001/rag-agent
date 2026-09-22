@@ -1,0 +1,74 @@
+About the job
+Junior Data Scientist – Computer Vision
+
+Location- Bangalore
+
+Job Description-
+
+We are looking for a passionate Computer Vision Engineer/Data Scientist who is eager to build AI-powered solutions using Deep Learning and Computer Vision techniques.You will work closely with senior data scientists and engineers to develop, train, evaluate, and deploy computer vision models for real-world fintech and document intelligence applications.This role offers an excellent opportunity to gain hands-on experience with modern deep learning frameworks, production AI systems, and large-scale datasets.
+
+Key Responsibilities
+
+Build Computer Vision Models: Develop and improve models for: Object Detection Image Quality Assessment OCR and Document Understanding Image Classification
+Data Preparation and Analysis Collect, clean, label, and analyze image datasets. Perform exploratory analysis on image and document data. Identify data quality issues and improve dataset reliability.
+Model Training and Evaluation Train and fine-tune deep learning models using modern frameworks. Evaluate model performance using appropriate metrics. Conduct experiments and benchmark different approaches.
+Research and Innovation Read and implement research papers and open-source solutions. Stay updated with advancements in Computer Vision and AI. Experiment with new architectures and techniques.
+Production Support Collaborate with engineering teams to deploy and monitor models. Assist in optimizing model performance for production environments. Support API integration and model inference pipelines.
+Documentation and Collaboration Document experiments, findings, and model performance. Work closely with product, engineering, and senior data science teams.
+
+
+Required Skills And Experience/Education
+
+BE / BTech / ME / MTech / MCA in Computer Science, Artificial Intelligence related fields.
+
+Technical Skills
+
+Strong understanding of Machine Learning and Deep Learning fundamentals.
+
+Good knowledge of Computer Vision concepts.
+
+Hands-on experience with Python programming.
+
+Familiarity with at least one deep learning framework: PyTorch (preferred)
+
+Computer Vision Libraries
+
+Experience with:
+
+OpenCV
+
+NumPy
+
+Pandas
+
+PIL
+
+scikit-image
+
+matplotlib
+
+Model Development
+
+Basic understanding of:
+
+CNNs
+
+Object Detection (YOLO, Faster R-CNN, SSD)
+
+Image Classification
+
+Transfer Learning
+
+Problem Solving
+
+Strong analytical and debugging skills.
+
+Curiosity to learn and explore new technologies.
+
+Preferred Qualifications
+
+0–2 years of experience in Computer Vision, AI, or Machine Learning.
+
+Internship or academic projects in Deep Learning or Computer Vision.
+
+Exposure to OCR, document processing, or image analytics projects.
