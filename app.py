@@ -1,5 +1,11 @@
 import streamlit as st
 from agent import agent_executor
+import os
+import subprocess
+
+if not os.path.exists("chroma_db"):
+    with st.spinner("Setting up knowledge base for the first time..."):
+        subprocess.run(["python", "ingest.py"])
 
 st.set_page_config(page_title="Job Market RAG Agent", page_icon="💼")
 
@@ -45,3 +51,4 @@ if query:
         "content": answer,
         "tool": tool_label
     })
+    
